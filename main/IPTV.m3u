@@ -13,3 +13,5 @@ http://193.111.31.235:35455/douyu/252140
 http://live.aptvapp.com/sxg.php?id=test1_4000
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="蜀小果IPV6",凤凰资讯
 http://live.aptvapp.com/sxg.php?id=test2_4000
+#EXTINF:-1,tvg-id="全球大视野" tvg-name="全球大视野" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="全球大视野",全球大视野
+http://193.111.31.235:9000/live.m3u8?c=14
