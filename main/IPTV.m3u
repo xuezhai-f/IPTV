@@ -3,5 +3,9 @@
 http://45.150.164.239:35455/bilibili/6?line=first
 #EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://liquipedia.net/commons/images/6/67/LPL_Logo.png" group-title="游戏赛事", 哔哩哔哩英雄联盟副台
 http://45.150.164.239:35455/bilibili/616?line=first
+#EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://liquipedia.net/commons/images/6/67/LPL_Logo.png" group-title="游戏赛事", 虎牙lpl
+http://45.150.164.239:35455/huya/lpl
+#EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://liquipedia.net/commons/images/6/67/LPL_Logo.png" group-title="游戏赛事", 虎牙lck
+http://45.150.164.239:35455/huya/lck
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="蜀小果IPV6",凤凰资讯
 http://45.150.164.239:35455/youtube/Zm4i_rvAcxc
